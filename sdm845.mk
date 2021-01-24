@@ -321,3 +321,7 @@ PRODUCT_PACKAGES += \
 # FOD specific of crDroid
 EXTRA_FOD_ANIMATIONS := true
 TARGET_HAS_FOD := true
+
+# CameraGo
+PRODUCT_PACKAGES += \
+    CameraGo
